@@ -1,13 +1,5 @@
-英语
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
+单词
++英语
 
 ai
 !gai
